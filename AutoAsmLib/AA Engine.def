@@ -1,0 +1,6 @@
+LIBRARY	"AutoAsmLib"
+
+EXPORTS
+AutoAssemble @1
+GetAddress @2
+Ver @3
